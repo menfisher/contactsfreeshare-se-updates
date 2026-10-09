@@ -1,0 +1,23 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.239.1",
+  "edition": "single-editor",
+  "release_date": "2026-10-09",
+  "notes": "Say ContactsFreeShare stores contacts in Google Contacts as an option, instead of sharing them with other Google accounts.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-SingleEditor-1.239.1-mac.zip",
+      "download_url": "ContactsFreeShare-SingleEditor-1.239.1-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-SingleEditor-1.239.1-windows.zip",
+      "download_url": "ContactsFreeShare-SingleEditor-1.239.1-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
